@@ -294,6 +294,6 @@ extension URLSession {
 
 如果你需要的操作符不在列表上？你可以自己定义操作符。
 
-但是如果因为某些原因难于创建对应的操作符，或者你需要使用某些遗漏的状态代码？好吧，你或许感到非常混乱，但是你可以轻易地[跳出Rx monads](https://github.com/dirtmelon/RxSwift/blob/master/Documentation/GettingStarted.md#life-happens)，处理完数据再返回。
+但是如果因为某些原因难于创建对应的操作符，或者你需要使用某些遗留的状态代码？好吧，你或许感到非常混乱，但是你可以轻易地[跳出Rx monads](https://github.com/dirtmelon/RxSwift/blob/master/Documentation/GettingStarted.md#life-happens)，处理完数据再返回。
 
 
